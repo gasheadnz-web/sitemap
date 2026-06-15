@@ -1,40 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- 1. Gas Guzzler (Primary Hub) -->
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <priority>1.0</priority>
   </url>
 
+  <!-- 2. England World Cup 2026 Board (Temporary High Priority) -->
   <url>
-    <loc>https://gasheads.org/board/38/england-games-news</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.8</priority>
+    <loc>https://gasheads.org/board/38/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.95</priority>
   </url>
 
-  <url>
-    <loc>https://gasheads.org/board/20/match-day-threads</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://gasheads.org/board/3/general-football-chat</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://gasheads.org/board/39/scotland-games-news</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.6</priority>
-  </url>
-
+  <!-- 3. World Cup 2026 General News -->
   <url>
     <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
-    <lastmod>2026-05-17</lastmod>
-    <priority>0.7</priority>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- 4. Match Day Threads -->
+  <url>
+    <loc>https://gasheads.org/board/20/match-day-threads</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- 5. General Football Chat -->
+  <url>
+    <loc>https://gasheads.org/board/3/general-football-chat</loc>
+    <lastmod>2026-06-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://gasheads.org/</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Recent Posts (included but no lastmod) -->
+  <url>
+    <loc>https://gasheads.org/posts/recent</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Search -->
+  <url>
+    <loc>https://gasheads.org/search</loc>
+    <priority>0.40</priority>
+  </url>
+
+  <!-- Members -->
+  <url>
+    <loc>https://gasheads.org/members</loc>
+    <priority>0.30</priority>
+  </url>
+
+  <!-- Help -->
+  <url>
+    <loc>https://gasheads.org/help</loc>
+    <priority>0.20</priority>
   </url>
 
 </urlset>
