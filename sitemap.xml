@@ -11,7 +11,7 @@
   <!-- 1. Gas Guzzler (Primary Hub) -->
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -27,7 +27,7 @@
   <!-- 3. World Cup 2026 General News -->
   <url>
     <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
