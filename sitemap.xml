@@ -12,6 +12,7 @@
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
@@ -19,6 +20,7 @@
   <url>
     <loc>https://gasheads.org/board/38/</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
 
@@ -26,6 +28,7 @@
   <url>
     <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
 
