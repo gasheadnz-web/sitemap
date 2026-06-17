@@ -117,6 +117,7 @@
   <url>
     <loc>https://gasheads.org/board/3/general-football-chat</loc>
     <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
@@ -155,7 +156,7 @@
   <!-- Bristol Rovers Memorabilia -->
   <url>
     <loc>https://gasheads.org/board/15</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
