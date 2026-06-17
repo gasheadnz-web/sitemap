@@ -174,22 +174,6 @@
     <priority>0.10</priority>
   </url>
 
-  <!-- Search -->
-  <url>
-    <loc>https://gasheads.org/search</loc>
-    <priority>0.40</priority>
-  </url>
 
-  <!-- Members -->
-  <url>
-    <loc>https://gasheads.org/members</loc>
-    <priority>0.30</priority>
-  </url>
-
-  <!-- Help -->
-  <url>
-    <loc>https://gasheads.org/help</loc>
-    <priority>0.20</priority>
-  </url>
 
 </urlset>
