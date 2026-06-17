@@ -4,14 +4,14 @@
   <!-- Homepage (Updated) -->
   <url>
     <loc>http://www.gasheads.org/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- 1. Gas Guzzler (Primary Hub) -->
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- 2. England World Cup 2026 Board -->
   <url>
     <loc>https://gasheads.org/board/38/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-06-18/lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
@@ -27,7 +27,7 @@
   <!-- 3. World Cup 2026 General News -->
   <url>
     <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
@@ -142,7 +142,7 @@
     <loc>https://gasheads.org/board/10</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
 
   <!-- Let's Talk Music -->
