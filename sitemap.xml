@@ -4,14 +4,14 @@
   <!-- Homepage (Updated) -->
   <url>
     <loc>http://www.gasheads.org/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <priority>0.90</priority>
   </url>
 
   <!-- 1. Gas Guzzler (Primary Hub) -->
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -19,7 +19,7 @@
   <!-- 2. England World Cup 2026 Board -->
   <url>
     <loc>https://gasheads.org/board/38/</loc>
-    <lastmod>2026-06-19<lastmod>
+    <lastmod>2026-06-21<lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
@@ -27,7 +27,7 @@
   <!-- 3. World Cup 2026 General News -->
   <url>
     <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
@@ -179,7 +179,29 @@
     <loc>https://gasheads.org/page/sitemap2</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.60</priority>
   </url>
 
+  <!-- Gasheads.org About Us Page -->
+  <url>
+    <loc>https://gasheads.org/page/about-us</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.60</priority>
+  </url>
+    <!-- Gasheads.org How to Contribute Page -->
+  <url>
+    <loc>https://gasheads.org/page/how-to-contribute</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.70</priority>
+  </url>
+    <!-- Gasheads.org Volunteer Roles -->
+  <url>
+    <loc> https://gasheads.org/page/volunteer</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.50</priority>
+  </url>
+ 
 </urlset>
