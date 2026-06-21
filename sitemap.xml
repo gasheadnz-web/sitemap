@@ -19,7 +19,7 @@
   <!-- 2. England World Cup 2026 Board -->
   <url>
     <loc>https://gasheads.org/board/38/</loc>
-    <lastmod>2026-06-21<lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
@@ -37,14 +37,14 @@
     <loc>https://gasheads.org/board/20/match-day-threads</loc>
     <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.70</priority>
   </url>
 
   <!-- Sub Boards -->
   <url>
     <loc>https://gasheads.org/board/37/2025-26-match-day-threads</loc>
     <lastmod>2026-05-04</lastmod>
-    <priority>0.6</priority>
+    <priority>0.60</priority>
   </url>
 
   <url>
@@ -126,7 +126,7 @@
     <loc>https://gasheads.org/board/6</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.50</priority>
   </url>
 
   <!-- Rugby Chat -->
@@ -134,7 +134,7 @@
     <loc>https://gasheads.org/board/7</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.60</priority>
   </url>
 
   <!-- Other Sport -->
@@ -142,7 +142,7 @@
     <loc>https://gasheads.org/board/10</loc>
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.50</priority>
   </url>
 
   <!-- Let's Talk Music -->
@@ -150,14 +150,15 @@
     <loc>https://gasheads.org/board/13</loc>
     <lastmod>2026-06-19</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
+    <priority>0.40</priority>
   </url>
 
   <!-- Bristol Rovers Memorabilia -->
   <url>
     <loc>https://gasheads.org/board/15</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.20</priority>
   </url>
 
   <!-- Forum Rules -->
@@ -165,10 +166,10 @@
     <loc>https://gasheads.org/thread/12332/forum-rules</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
+    <priority>0.20</priority>
   </url>
 
-<!-- Gasheads.org Index Page -->
+  <!-- Gasheads.org Index Page -->
   <url>
     <loc>https://gasheads.org/page/sitemap2</loc>
     <lastmod>2026-06-19</lastmod>
@@ -183,26 +184,28 @@
     <changefreq>yearly</changefreq>
     <priority>0.60</priority>
   </url>
-    <!-- Gasheads.org How to Contribute Page -->
+
+  <!-- Gasheads.org How to Contribute Page -->
   <url>
     <loc>https://gasheads.org/page/how-to-contribute</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.70</priority>
   </url>
-    <!-- Gasheads.org Volunteer Roles -->
+
+  <!-- Gasheads.org Volunteer Roles -->
   <url>
-    <loc> https://gasheads.org/page/volunteer</loc>
+    <loc>https://gasheads.org/page/volunteer</loc>
     <lastmod>2026-06-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
   </url>
 
-      <!-- Gasheads.org Contact Us Page -->
+  <!-- Gasheads.org Contact Us Page -->
   <url>
-  </loc>https://gasheads.org/page/contact-us</loc>
+    <loc>https://gasheads.org/page/contact-us</loc>
     <lastmod>2026-06-21</lastmod>
     <priority>0.20</priority>
   </url>
- 
+
 </urlset>
