@@ -168,12 +168,6 @@
     <priority>0.2</priority>
   </url>
 
-  <!-- Recent Posts -->
-  <url>
-    <loc>https://gasheads.org/posts/recent</loc>
-    <priority>0.10</priority>
-  </url>
-
 <!-- Gasheads.org Index Page -->
   <url>
     <loc>https://gasheads.org/page/sitemap2</loc>
