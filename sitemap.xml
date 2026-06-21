@@ -197,5 +197,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
   </url>
+
+      <!-- Gasheads.org Contact Us Page -->
+  <url>
+  </loc>https://gasheads.org/page/contact-us</loc>
+    <lastmod>2026-06-21</lastmod>
+    <priority>0.20</priority>
+  </url>
  
 </urlset>
