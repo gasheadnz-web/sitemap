@@ -4,25 +4,25 @@
   <!-- Homepage -->
   <url>
     <loc>https://gasheads.org/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
 
   <!-- Gas Guzzler (Primary Hub) -->
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
 
   <!-- England World Cup 2026 Board -->
   <url>
     <loc>https://gasheads.org/board/38/</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
 
   <!-- World Cup 2026 General News -->
   <url>
     <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
 
   <!-- Match Day Threads (Main + Sub Boards) -->
@@ -94,13 +94,13 @@
   <!-- General Football Chat -->
   <url>
     <loc>https://gasheads.org/board/3/general-football-chat</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-07-01</lastmod>
   </url>
 
   <!-- Cricket Lovers -->
   <url>
     <loc>https://gasheads.org/board/6</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
 
   <!-- Rugby Chat -->
@@ -112,7 +112,7 @@
   <!-- Other Sport -->
   <url>
     <loc>https://gasheads.org/board/10</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
 
   <!-- Let's Talk Music -->
@@ -144,6 +144,12 @@
     <loc>https://gasheads.org/page/about-us</loc>
     <lastmod>2026-06-23</lastmod>
   </url>
+
+  <!-- Bristol Rovers -A Brief History -->
+  <url>
+    <loc>https://gasheads.org/page/brief-rovers-history<loc>
+    <lastmod>2026-07-04</lastmod>
+    </url> 
 
   <!-- How to Contribute -->
   <url>
