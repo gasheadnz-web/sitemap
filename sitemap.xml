@@ -1,73 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Homepage -->
   <url>
     <loc>https://gasheads.org/</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
-
-  <!-- Gas Guzzler -->
+  <url>
+    <loc>https://gasheads.org/board/10/all-sports</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/13/talk-music</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
   <url>
     <loc>https://gasheads.org/board/2/gas-guzzler</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
-
-  <!-- England World Cup 2026 -->
   <url>
-    <loc>https://gasheads.org/board/38/</loc>
-    <lastmod>2026-07-08</lastmod>
+    <loc>https://gasheads.org/board/20/match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
   </url>
-
-  <!-- World Cup 2026 General -->
   <url>
-    <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
-    <lastmod>2026-07-08</lastmod>
+    <loc>https://gasheads.org/board/21/2015-16-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
   </url>
-
-  <!-- General Football Chat -->
+  <url>
+    <loc>https://gasheads.org/board/23/2016-17-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/26/2017-18-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/27/2018-19-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/29/2019-20-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
   <url>
     <loc>https://gasheads.org/board/3/general-football-chat</loc>
     <lastmod>2026-07-08</lastmod>
   </url>
-
-  <!-- Cricket -->
-  <url><loc>https://gasheads.org/board/6/</loc><lastmod>2026-07-08</lastmod></url>
-
-  <!-- Rugby -->
-  <url><loc>https://gasheads.org/board/7/</loc><lastmod>2026-07-02</lastmod></url>
-
-  <!-- Other Sport -->
-  <url><loc>https://gasheads.org/board/10/</loc><lastmod>2026-07-08</lastmod></url>
-
-  <!-- Music -->
-  <url><loc>https://gasheads.org/board/13/</loc><lastmod>2026-07-02</lastmod></url>
-
-  <!-- Memorabilia -->
-  <url><loc>https://gasheads.org/board/15/</loc><lastmod>2026-04-21</lastmod></url>
-
-  <!-- Forum Rules -->
-  <url><loc>https://gasheads.org/page/forum-rules</loc><lastmod>2026-02-17</lastmod></url>
-
-  <!-- Index Page -->
-  <url><loc>https://gasheads.org/page/sitemap2</loc><lastmod>2026-06-19</lastmod></url>
-
-  <!-- About Us -->
-  <url><loc>https://gasheads.org/page/about-us</loc><lastmod>2026-06-23</lastmod></url>
-
-  <!-- Brief Rovers History -->
   <url>
-    <loc>https://gasheads.org/page/brief-rovers-history</loc>
-    <lastmod>2026-07-04</lastmod>
+    <loc>https://gasheads.org/board/31/2020-21-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
   </url>
-
-  <!-- How to Contribute -->
-  <url><loc>https://gasheads.org/page/how-to-contribute</loc><lastmod>2026-06-21</lastmod></url>
-
-  <!-- Volunteer -->
-  <url><loc>https://gasheads.org/page/volunteer</loc><lastmod>2026-06-21</lastmod></url>
-
-  <!-- Contact -->
-  <url><loc>https://gasheads.org/page/contact-us</loc><lastmod>2026-06-21</lastmod></url>
-
+  <url>
+    <loc>https://gasheads.org/board/32/2021-22-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/33/2022-23-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/35/2023-24-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/36/2024-25-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/37/2025-26-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/38/england-games-news</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/40/world-cup-2026-general-news</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/41/2026-27-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/6/cricket-lovers</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/7/rugby-chat</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/board/8/2014-15-match-day-threads</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
 </urlset>
