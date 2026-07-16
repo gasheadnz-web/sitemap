@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Original Pages -->
   <url>
     <loc>https://gasheads.org/</loc>
     <lastmod>2026-07-08</lastmod>
@@ -82,7 +83,7 @@
   </url>
   <url>
     <loc>https://gasheads.org/board/6/cricket-lovers</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-17</lastmod>
   </url>
   <url>
     <loc>https://gasheads.org/board/7/rugby-chat</loc>
@@ -90,6 +91,32 @@
   </url>
   <url>
     <loc>https://gasheads.org/board/8/2014-15-match-day-threads</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-15</lastmod>
+  </url>
+
+  <!-- New Pages (Updated Today) -->
+  <url>
+    <loc>https://gasheads.org/page/brief-rovers-history</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/page/about-us</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/page/volunteer</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/page/contact-us</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/page/sitemap2</loc>
+    <lastmod>2026-07-17</lastmod>
+  </url>
+  <url>
+    <loc>https://gasheads.org/page/forum-rules</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
 </urlset>
