@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://raw.githubusercontent.com/gasheadnz-web/sitemap/main/sitemap.xml</loc>
+    <loc>https://gasheadnz-web.github.io/sitemap/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://raw.githubusercontent.com/gasheadnz-web/sitemap/main/sitemap-threads.xml</loc>
+    <loc>https://gasheadnz-web.github.io/sitemap/sitemap-threads.xml</loc>
   </sitemap>
 </sitemapindex>
