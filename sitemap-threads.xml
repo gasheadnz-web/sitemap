@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gasheads.org/thread/12869/hutchison</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12867/newport-game</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12864/alan-marshall</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12686/promise</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12680/brad-young</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gasheads.org/thread/12871/forest-green-rovers-mdt-season</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12869/hutchison</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12868/rovers-portsmouth-pre-season-mdt</loc>
+    <loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
     <lastmod>2026-07-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12686/promise</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -55,18 +73,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12864/alan-marshall</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12867/newport-game</loc>
-    <lastmod>2026-07-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12596/good-evans</loc>
     <lastmod>2026-07-18</lastmod>
     <changefreq>daily</changefreq>
@@ -80,12 +86,6 @@
   </url>
   <url>
     <loc>https://gasheads.org/thread/6500/gary-mabbutt</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -120,10 +120,4 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-<loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
-<lastmod>2026-07-16</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8</priority>
-</url>
 </urlset>
