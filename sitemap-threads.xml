@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gasheads.org/thread/12884/dundee-rovers-mdt-pre-season</loc>
+    <loc>https://gasheads.org/thread/12885/new-keeper-charlie-binns</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12885/new-keeper-charlie-binns</loc>
+    <loc>https://gasheads.org/thread/12838/jack-aitchison</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12884/dundee-rovers-mdt-pre-season</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -115,16 +121,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12719/season-ticket-info-2026-2027</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-07-30 08:07:00 -->
+<!-- Last generated: 2026-07-30 16:20:27 -->
 </urlset>
