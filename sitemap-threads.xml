@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gasheads.org/thread/12886/new-signings-on</loc>
-    <lastmod>2026-08-01</lastmod>
+    <loc>https://gasheads.org/thread/12892/darryll-clarkes-league-cup-record</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12889/rovers-burnely-kids-pre-season</loc>
-    <lastmod>2026-08-01</lastmod>
+    <loc>https://gasheads.org/thread/11817/luke-thomas</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12886/new-signings-on</loc>
+    <lastmod>2026-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -115,16 +121,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12879/game-weekend</loc>
-    <lastmod>2026-07-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
-    <lastmod>2026-07-30</lastmod>
+    <lastmod>2026-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-08-01 16:20:29 -->
+<!-- Last generated: 2026-08-02 16:20:28 -->
 </urlset>
