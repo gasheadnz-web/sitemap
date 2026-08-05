@@ -2,18 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gasheads.org/thread/12893/august-points</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12896/rovers-final-position-season-prediction</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12764/next-season-rovers-winning-league</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12699/players-stay-come-seasons-end</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12877/season-closer-york-ticket-information</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12881/4th-tier-news</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/12686/promise</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12881/4th-tier-news</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -73,18 +97,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12877/season-closer-york-ticket-information</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12699/players-stay-come-seasons-end</loc>
-    <lastmod>2026-07-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12830/league-cup-draw-home-peterborough</loc>
     <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
@@ -109,22 +121,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12867/newport-game</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12882/scotland-away-fixtures-close-doors</loc>
-    <lastmod>2026-07-29</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-08-04 16:20:28 -->
+<!-- Last generated: 2026-08-05 16:20:29 -->
 </urlset>
