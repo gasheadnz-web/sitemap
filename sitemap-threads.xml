@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gasheads.org/thread/12896/rovers-final-position-season-prediction</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12084/brfc-news-general</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12596/good-evans</loc>
-    <lastmod>2026-08-06</lastmod>
+    <loc>https://gasheads.org/thread/12897/tottenham-hotspur-reiss-alexander-russell</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12900/mens-squad-numbers-2026-2027</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12899/having-gas</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -25,7 +31,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12897/tottenham-hotspur-reiss-alexander-russell</loc>
+    <loc>https://gasheads.org/thread/12896/rovers-final-position-season-prediction</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12596/good-evans</loc>
     <lastmod>2026-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -109,22 +121,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/10682/rise-gas-girls</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12891/macauley-southam-hales</loc>
-    <lastmod>2026-08-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12852/2026-pre-season</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-08-06 16:20:30 -->
+<!-- Last generated: 2026-08-07 16:20:29 -->
 </urlset>
