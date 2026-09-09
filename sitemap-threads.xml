@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gasheads.org/thread/12930/trialist</loc>
-    <lastmod>2026-09-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12585/silent-owners-dying-club</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/12858/raynor-bristol-rovers-assistant-manager</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12585/silent-owners-dying-club</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12934/bristol-rovers-rotherham-saturday-september</loc>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12935/livingstone-presume</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -21,12 +33,6 @@
   <url>
     <loc>https://gasheads.org/thread/12925/september-points</loc>
     <lastmod>2026-09-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12934/bristol-rovers-rotherham-saturday-september</loc>
-    <lastmod>2026-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -115,12 +121,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12635/riley-harbottle-great-name</loc>
-    <lastmod>2026-09-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12927/gas-colchester</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -156,5 +156,5 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-09-08 16:20:29 -->
+<!-- Last generated: 2026-09-09 16:20:29 -->
 </urlset>
