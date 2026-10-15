@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gasheads.org/thread/12969/sense-humour</loc>
-    <lastmod>2026-10-14</lastmod>
+    <loc>https://gasheads.org/thread/12968/city-lose-again</loc>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12968/city-lose-again</loc>
+    <loc>https://gasheads.org/thread/12969/sense-humour</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12970/u21-reserve-cup</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -32,7 +38,7 @@
   </url>
   <url>
     <loc>https://gasheads.org/thread/11096/jarell-quansah-joins-rovers-loan</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -115,12 +121,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12902/keenan-gough</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12961/wycombe-wanders-rovers-reserve-team</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>daily</changefreq>
@@ -192,5 +192,5 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-10-14 16:22:56 -->
+<!-- Last generated: 2026-10-15 16:20:30 -->
 </urlset>
