@@ -1,25 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gasheads.org/thread/1553/red-card-racism</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12449/fabrizio-cavegn-incoming</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12972/bee-stung</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gasheads.org/thread/12971/shrewsbury-town-bristol-rovers-30pm</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/12970/u21-reserve-cup</loc>
-    <lastmod>2026-10-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12968/city-lose-again</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/12084/brfc-news-general</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12968/city-lose-again</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -91,12 +109,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12449/fabrizio-cavegn-incoming</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/10753/aaron-collins</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
@@ -105,18 +117,6 @@
   <url>
     <loc>https://gasheads.org/thread/12951/october-points</loc>
     <lastmod>2026-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12725/ollie-dewsbury</loc>
-    <lastmod>2026-10-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12960/arvin-appiah</loc>
-    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -198,5 +198,5 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-10-16 16:20:29 -->
+<!-- Last generated: 2026-10-17 16:20:29 -->
 </urlset>
