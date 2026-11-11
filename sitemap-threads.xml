@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gasheads.org/thread/10753/aaron-collins</loc>
-    <lastmod>2026-11-10</lastmod>
+    <loc>https://gasheads.org/thread/12993/royals-match-thread-jersey-trophy</loc>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12968/city-lose-again</loc>
-    <lastmod>2026-11-10</lastmod>
+    <loc>https://gasheads.org/thread/12984/new-trainer-arrives</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/10753/aaron-collins</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12994/rovers-remembered-celebration-years-mem</loc>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/12991/ball-cup-draw-mon-nov</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12993/royals-match-thread-jersey-trophy</loc>
+    <loc>https://gasheads.org/thread/12968/city-lose-again</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -103,20 +115,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12984/new-trainer-arrives</loc>
-    <lastmod>2026-11-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12684/jack-sparkes</loc>
     <lastmod>2026-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12881/4th-tier-news</loc>
-    <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -222,5 +222,5 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-11-10 16:20:30 -->
+<!-- Last generated: 2026-11-11 16:20:31 -->
 </urlset>
