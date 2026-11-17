@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gasheads.org/thread/13005/team</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12084/brfc-news-general</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/12994/rovers-remembered-celebration-years-mem</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gasheads.org/thread/12596/good-evans</loc>
     <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
@@ -19,14 +37,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12084/brfc-news-general</loc>
-    <lastmod>2026-11-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12997/gas-chesterfield-match-thread</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -91,12 +103,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gasheads.org/thread/12994/rovers-remembered-celebration-years-mem</loc>
-    <lastmod>2026-11-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gasheads.org/thread/12991/ball-cup-draw-mon-nov</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
@@ -111,12 +117,6 @@
   <url>
     <loc>https://gasheads.org/thread/12951/october-points</loc>
     <lastmod>2026-11-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/12977/bristol-rovers-oxford-united-youth</loc>
-    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -234,5 +234,5 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-11-16 19:01:19 -->
+<!-- Last generated: 2026-11-17 16:53:58 -->
 </urlset>
