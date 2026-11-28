@@ -2,24 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gasheads.org/thread/12084/brfc-news-general</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/10682/rise-gas-girls</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/13013/tranmere-match-thread</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/10821/olly</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gasheads.org/thread/13010/operation-christmas-hamper-sat-tranmere</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gasheads.org/thread/13012/gascast-gogglebox-quite-enjoyed</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/10821/olly</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -33,12 +45,6 @@
   <url>
     <loc>https://gasheads.org/thread/12881/4th-tier-news</loc>
     <lastmod>2026-11-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/10682/rise-gas-girls</loc>
-    <lastmod>2026-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,12 +74,6 @@
   </url>
   <url>
     <loc>https://gasheads.org/thread/12987/november-points</loc>
-    <lastmod>2026-11-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gasheads.org/thread/13010/operation-christmas-hamper-sat-tranmere</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -240,5 +240,5 @@
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-<!-- Last generated: 2026-11-27 16:20:30 -->
+<!-- Last generated: 2026-11-28 16:20:32 -->
 </urlset>
